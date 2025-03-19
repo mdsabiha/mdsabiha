@@ -64,9 +64,6 @@ Check out my **GitHub repositories** for hands-on projects that showcase my skil
 ✔ Conducted market research & competitive analysis.  
 ✔ Improved operational efficiency by 10% through SQL-driven insights.  
 
-**📌 Team Member** @ Popeyes Louisiana Kitchen *(2023 - Present)*  
-✔ Strengthened teamwork & problem-solving skills in a customer-facing role.  
-
 ---
 
 ## 🎓 Education & Certifications  
