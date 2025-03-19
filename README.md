@@ -70,13 +70,13 @@ Check out my **GitHub repositories** for hands-on projects that showcase my skil
 🎓 **St. Clair College, Windsor** – *Data Analytics for Business* (Graduating: April 2025)  
 🎓 **JNTU Kakinada, India** – *B.Tech in Information Technology* (2014)  
 
-📜 **Certifications:**  
-✔ AWS Certified Cloud Practitioner  
-✔ Querying Microsoft SQL Server 2022 (LinkedIn Learning)  
-✔ Statistical Thinking in Python (DataCamp)  
-✔ A/B Testing in Python (DataCamp)  
-✔ Prompt Engineering: How to Talk to the AIs  
+# 📜 Certifications
 
+- ✔ **AWS Certified Cloud Practitioner** (In Progress)
+- ✔ **Querying Microsoft SQL Server 2022** (LinkedIn Learning)
+- ✔ **Statistical Thinking in Python** (DataCamp)
+- ✔ **A/B Testing in Python** (DataCamp)
+- ✔ **Prompt Engineering: How to Talk to the AIs**
 ---
 
 ## 🌱 What I’m Currently Exploring  
