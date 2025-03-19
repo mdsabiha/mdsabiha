@@ -87,4 +87,5 @@ Check out my **GitHub repositories** for hands-on projects that showcase my skil
 ---
 
 ## 📫 Let’s Connect!  
-💼 [LinkedIn](#) | 📧 sabihamohammed1509@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/mdsabiha/) | 📧 sabihamohammed1509@gmail.com  
+
