@@ -36,6 +36,21 @@ Check out my **GitHub repositories** for hands-on projects that showcase my skil
 ➤ Conducted an A/B test on product features, increasing conversion rates by 15%.  
 ➤ Used Python (Pandas & Statsmodels) for hypothesis testing.  
 
+🔹 [**Indian Airlines Sentiment Analysis**](https://github.com/mdsabiha/IndianAirlinesCustomerSatisfactionAnalysis-) *(Data Cleaning, Sentiment Analysis, Python, Pandas, Seaborn)*  
+➤ Processed **2,211 customer reviews**, cleaning missing values and standardizing data.  
+➤ Conducted **sentiment analysis** to classify reviews as positive or negative.  
+➤ Created **airline-wise satisfaction trends** using **Seaborn & Matplotlib**.  
+
+🔹 [**Customer Recommendation Analysis**](https://github.com/mdsabiha/IndianAirlinesCustomerSatisfactionAnalysis-) *(Statistical Analysis, Python, Pandas, Matplotlib)*  
+➤ Analyzed the correlation between **ratings and customer recommendations**.  
+➤ Visualized **recommendation patterns** across different airlines.  
+➤ Identified **top factors** influencing positive recommendations.  
+
+🔹 [**Common Complaint Detection**](https://github.com/mdsabiha/IndianAirlinesCustomerSatisfactionAnalysis-) *(NLP, Text Analysis, Python, WordCloud)*  
+➤ Used **Natural Language Processing (NLP)** to extract frequent complaint topics.  
+➤ Generated **word clouds** to visualize the most common negative feedback themes.  
+➤ Provided **data-driven recommendations** to improve airline services.  
+ 
 ---
 
 ## 💼 Professional Experience  
