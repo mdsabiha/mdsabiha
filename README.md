@@ -1,7 +1,6 @@
 # Sabiha Begum Mohammed
 
-🎓 PG in Data Analytics | 🧠 AI QA Engineer | 🧪 Data & Automation Analyst  
-📍 Windsor, ON, Canada  
+🎓 PG in Data Analytics | 🧠 AI QA Engineer | 🧪 Data & Automation Analyst   
 📧 sabihabegum1509@gmail.com | 📱 +1-613-302-9776  
 🌐 [GitHub](https://github.com/mdsabiha)
 
