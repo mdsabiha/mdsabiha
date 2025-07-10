@@ -30,6 +30,9 @@ Completed a Postgraduate Diploma in Data Analytics for Business from St. Clair C
 - **CO2 Emissions Visualization in Tableau**  
   Built interactive Tableau dashboards to assess CO2 emission patterns across vehicle types and regions, supporting environmental analytics and sustainability awareness.
 
+- **Financial Evaluation of Goldman Sachs**  
+  Conducted a comprehensive financial analytics project evaluating Goldman Sachs’ performance. Analyzed key metrics including revenue growth, return on equity, and stock status. Utilized Python and Excel for data extraction and analysis.
+
 ---
 
 ## 🧰 TECHNICAL SKILLS
