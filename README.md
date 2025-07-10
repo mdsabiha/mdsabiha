@@ -15,7 +15,7 @@ AI-focused Quality Engineer and Data Analyst with 6+ years of experience in soft
 
 | Project                                        | Description                                                         | Link                                                                                          |
 |-----------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| **Hypertension Risk Prediction**              | Random Forest model & Flask web app for hypertension risk scoring   | https://github.com/mdsabiha/HypertensionRiskPrediction                                        |
+| **Hypertension Risk Prediction**              | Random Forest model & Flask web app for hypertension risk scoring   | (https://github.com/mdsabiha/capstone_project)                                       |
 | **Diet vs Health Risk Analysis**              | NHANES dietary data exploration & Tableau dashboards                | (https://github.com/mdsabiha/capstone_project)                                         |
 | **Indian Airlines Customer Satisfaction**     | Sentiment analysis pipeline using NLTK & TextBlob                   | https://github.com/mdsabiha/IndianAirlinesCustomerSatisfactionAnalysis                        |
 | **Retail Sales Intelligence**                 | Interactive Power BI dashboard with retail KPIs & DAX logic         | https://github.com/mdsabiha/RetailSalesIntelligence                                          |
