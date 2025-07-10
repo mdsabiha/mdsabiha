@@ -4,6 +4,7 @@
 📧 sabihabegum1509@gmail.com  
 📞 +1-613-302-977  
 
+
 ---
 
 ## 👋 About Me
@@ -23,38 +24,56 @@ AI-focused QA & Data Analyst with over **6 years of experience** in software tes
 
 ---
 
-## 📁 Projects & Repositories
+## 💡 Featured Projects
 
-| **Project**                          | **Description**                                                                 | **Link**                                                                                     |
-|--------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Hypertension Risk Prediction         | Random Forest model & Flask web app for hypertension risk scoring              | [GitHub](https://github.com/mdsabiha/capstone_project)                                       |
-| Diet vs Health Risk Analysis         | NHANES dietary data exploration & Tableau dashboards                           | [GitHub](https://github.com/mdsabiha/capstone_project)                                       |
-| Indian Airlines Customer Satisfaction| Sentiment analysis pipeline using NLTK & TextBlob                              | [GitHub](https://github.com/mdsabiha/IndianAirlinesCustomerSatisfactionAnalysis)             |
-| Retail Sales Intelligence            | Interactive Power BI dashboard with retail KPIs & DAX logic                    | [GitHub](https://github.com/mdsabiha/RetailSalesIntelligence)                                |
-| CO₂ Emissions Visualization          | Tableau dashboards visualizing vehicle emission patterns                       | [GitHub](https://github.com/mdsabiha/EmissionsVisualization)                                 |
-| Goldman Sachs Financial Analysis     | Presentation: Monte Carlo, Prophet forecasting, CAPM & WACC models             | [GitHub](https://github.com/mdsabiha/goldman-sachs-financial-analysis)                       |
+### 🔬 Hypertension Risk Prediction Web App  
+Built a Random Forest classification model to forecast hypertension risk using lifestyle and demographic factors. Deployed as a Flask web app for real-time health assessments.
+
+### 📊 Retail Sales Intelligence Dashboard  
+Designed a Power BI dashboard to monitor KPIs and visualize sales performance using slicers, DAX, and storytelling visuals.
+
+### 🧪 AI Red Teaming & Sentiment Analysis  
+Extracted customer sentiment from Indian airline reviews using Python NLP (TextBlob, NLTK). Flagged edge cases for adversarial testing in AI models.
+
+### 🌍 CO₂ Emissions Visualization  
+Created interactive Tableau dashboards analyzing CO₂ emissions across vehicle types and countries, supporting environmental strategy design.
+
+### 🥗 Diet & Health Risk Correlation (NHANES)  
+Conducted statistical analysis and EDA on public health datasets (NHANES) to identify dietary patterns linked to hypertension, diabetes, and inflammation.
 
 ---
 
-## 💼 Work Experience
+## 🧰 Technical Skills
+
+| Area                | Tools & Tech                                                  |
+|---------------------|---------------------------------------------------------------|
+| **Languages**       | Python, SQL, Java (basic)                                      |
+| **Testing**         | Selenium, Pytest, BDD (Cucumber), Automation Frameworks        |
+| **Analytics**       | EDA, Power BI, Tableau, Seaborn, Pandas                        |
+| **ML / AI**         | Random Forest, Fairlearn, Prompt Tuning, Great Expectations    |
+| **DevOps**          | Git, Jenkins, CI/CD                                            |
+| **Methodologies**   | Agile, Scrum, CR Management                                    |
+| **Domains**         | BFSI (Loans, Credit, Insurance), AI Validation, RegTech        |
+
+---
+
+## 🧑‍💼 Work Experience
 
 ### **Python QA Automation & Data Analyst**  
 *Microspark Software Solutions, Hyderabad*  
 **Aug 2020 – Mar 2023**  
-- Validated AI-generated banking API outputs using Python and statistical methods  
-- Built benchmarking frameworks with automated tests, reducing data quality issues by 32%  
-- Applied sentiment analysis for bias detection and red teaming in customer feedback  
-- Built ground-truth datasets for backend reconciliation in BFSI workflows  
-- Tools: Python, pytest, SQL, Power BI
+- Validated banking APIs and AI-generated content using automated Python scripts  
+- Developed benchmarking frameworks to reduce validation errors by 32%  
+- Used seaborn and NLP for bias detection and adversarial testing  
+- Built datasets for ground-truth verification in BFSI workflows  
 
 ### **Software Quality Engineer – Banking Applications**  
 *Microspark Software Solutions, Hyderabad*  
 **Jul 2016 – Aug 2020**  
-- Automated regression testing for financial APIs using Selenium and Python  
-- Domain knowledge in loans, mortgage, credit insurance, and flood insurance  
-- Used JIRA & Blueprint to track CRs and QA workflows  
-- Identified fairness gaps in customer onboarding using SQL metrics  
-- Helped deliver AI prompt optimization for conversational AI interfaces
+- Led QA for secured/unsecured credit systems, mortgage, and insurance tools  
+- Automated regression testing covering 200+ edge cases  
+- Conducted fairness audits and chatbot prompt optimization  
+- Collaborated closely with business teams to streamline CR deliveries  
 
 ---
 
@@ -75,33 +94,17 @@ Andhra Loyola Institute of Engineering and Technology, India
 - Power BI for Data Analysts  
 - Selenium WebDriver with Java  
 - Data Analytics with Excel & SQL  
-- Agile Foundations, Scrum Basics  
-- Python Statistical Thinking
+- Agile Foundations, Scrum Basics, Python Statistical Thinking  
 
 ---
 
-## 🧰 Technical Skills
+## 🌍 Additional Highlights
 
-| Category            | Tools & Technologies                                                                 |
-|---------------------|----------------------------------------------------------------------------------------|
-| **Languages**       | Python, SQL, Java (basic)                                                             |
-| **Automation**      | Selenium, Pytest, BDD (Cucumber), Great Expectations                                  |
-| **AI/ML**           | Random Forest, Fairlearn, Prompt Optimization, NLP, OpenAI Eval                       |
-| **Visualization**   | Power BI, Tableau, Alteryx                                                             |
-| **Data Analytics**  | EDA, Feature Engineering, Sentiment Analysis, Data Pipelines                          |
-| **DevOps Tools**    | Git, Jenkins, JIRA, CI/CD                                                              |
-| **Methodologies**   | Agile, Scrum, CR Tracking                                                              |
-| **Domains**         | BFSI (Loans, Insurance, Credit Risk, KYC/AML), Healthcare Analytics                    |
+- Functional expertise in AML/KYC, Loans, Flood & Credit Insurance  
+- Fully eligible to work in Canada  
+- Languages: **English (C1 – IELTS Certified)**, **French (B2 – CEFR Certified)**  
+- Experienced in Agile QA teams and cross-functional product delivery
 
 ---
 
-## 🌟 Additional Highlights
-
-- Functional expertise in AML/KYC, Loans, Credit, and Consumer Insurance  
-- Experienced in Agile teams with a strong QA and DevOps mindset  
-- Eligible to work full-time in Canada  
-- Languages: **English (C1 – IELTS Certified)** | **French (B2 – CEFR Certified)**  
-
----
-
-> “Let’s build ethical, impactful, and intelligent systems that solve meaningful problems.”
+> **Let’s connect to build smarter, safer, and scalable AI & data solutions!**
