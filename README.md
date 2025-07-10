@@ -1,73 +1,109 @@
-# Sabiha Begum Mohammed
+# 👩‍💻 Sabiha Begum Mohammed
 
 **PG in Data Analytics | AI QA Engineer | Data & Automation Analyst**  
-📧 sabihabegum1509@gmail.com | 📞 +1-613-302-9776 
+📍 Based in Canada  
+📧 sabihabegum1509@gmail.com  
+📞 +1-613-302-977  
+🔗 [GitHub: mdsabiha](https://github.com/mdsabiha)
 
 ---
 
-## About Me
+## 👋 About Me
 
-AI-focused Quality Engineer and Data Analyst with 6+ years of experience in software testing, automation, data validation, and ethical AI. Skilled in building robust QA frameworks, mitigating model bias, and delivering actionable insights via Python, SQL, Power BI, and Tableau. Currently completing Postgraduate Diploma in Data Analytics at St. Clair College.
-
----
-
-## Projects & Repositories
-
-| Project                                        | Description                                                         | Link                                                                                          |
-|-----------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| **Hypertension Risk Prediction**              | Random Forest model & Flask web app for hypertension risk scoring   | (https://github.com/mdsabiha/capstone_project)                                       |
-| **Diet vs Health Risk Analysis**              | NHANES dietary data exploration & Tableau dashboards                | (https://github.com/mdsabiha/capstone_project)                                         |
-| **Indian Airlines Customer Satisfaction**     | Sentiment analysis pipeline using NLTK & TextBlob                   | https://github.com/mdsabiha/IndianAirlinesCustomerSatisfactionAnalysis                        |
-| **Retail Sales Intelligence**                 | Interactive Power BI dashboard with retail KPIs & DAX logic         | https://github.com/mdsabiha/RetailSalesIntelligence                                          |
-| **CO₂ Emissions Visualization**               | Tableau dashboards visualizing vehicle emission patterns            | https://github.com/mdsabiha/EmissionsVisualization                                            |
-| **Goldman Sachs Financial Analysis**          | Presentation: Monte Carlo, Prophet forecasting, CAPM & WACC models   | https://github.com/mdsabiha/goldman-sachs-financial-analysis                                  |
+AI-focused QA & Data Analyst with over **6 years of experience** in software testing, automation, and AI validation. I specialize in ensuring **responsible and robust AI systems** using Python, ML, and red teaming techniques. With a strong foundation in BFSI domain applications, I'm passionate about solving real-world problems through strategic analytics, ethical AI, and automation frameworks.
 
 ---
 
-## Technical Highlights
+## 🔍 Core Competencies
 
-- **Languages & Libraries:** Python, SQL, Pandas, NumPy, Scikit-Learn, FB Prophet, TextBlob, NLTK  
-- **QA & Automation:** Selenium, pytest, BDD, Great Expectations, CI/CD (Jenkins/GitHub Actions)  
-- **BI & Visualization:** Power BI, Tableau, Matplotlib  
-- **Responsible AI:** Fairness audits (Aequitas), adversarial testing, bias mitigation  
-- **DevOps & Tools:** Git, Docker, Flask, JIRA  
-- **Domains:** Banking, Insurance (Guidewire), Healthcare Analytics
-
----
-
-## Professional Experience
-
-**Python QA Automation & Data Analyst**  
-Microspark Software Solutions, India | Aug 2020 – Mar 2023  
-- Built data validation pipelines using Great Expectations.  
-- Automated regression suites (200+ cases) using Selenium & pytest.  
-- Developed sentiment benchmarking and red-team assessments for NLP models.
-
-**Software Quality Engineer (BFSI & Insurance)**  
-Microspark Software Solutions, India | Jul 2016 – Aug 2020  
-- Designed adversarial test scenarios for chatbots & financial workflows.  
-- Led test planning, execution & defect management for Guidewire billing modules.
+- **AI Validation**: Response accuracy, coherence checks, bias detection, adversarial testing  
+- **Testing & Automation**: Selenium, Pytest, BDD (Cucumber), CI/CD, Jenkins  
+- **Data Analytics & Visualization**: Python, SQL, Tableau, Power BI, EDA  
+- **Responsible AI**: Bias mitigation, fairness evaluation (Fairlearn, Aequitas)  
+- **DevOps & QA Tools**: JIRA, ALM, Blueprint, Git, Great Expectations  
+- **Domain Expertise**: Banking, Insurance, Regulatory Tech, Risk & Compliance  
 
 ---
 
-## Education
+## 📁 Projects & Repositories
 
-**PG Diploma in Data Analytics for Business**  
-St. Clair College, Windsor, ON | 2023 – 2025
-
-**B.Tech in Information Technology**  
-Andhra Loyola Institute of Engineering & Technology, India | 2010 – 2014
+| **Project**                          | **Description**                                                                 | **Link**                                                                                     |
+|--------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Hypertension Risk Prediction         | Random Forest model & Flask web app for hypertension risk scoring              | [GitHub](https://github.com/mdsabiha/capstone_project)                                       |
+| Diet vs Health Risk Analysis         | NHANES dietary data exploration & Tableau dashboards                           | [GitHub](https://github.com/mdsabiha/capstone_project)                                       |
+| Indian Airlines Customer Satisfaction| Sentiment analysis pipeline using NLTK & TextBlob                              | [GitHub](https://github.com/mdsabiha/IndianAirlinesCustomerSatisfactionAnalysis)             |
+| Retail Sales Intelligence            | Interactive Power BI dashboard with retail KPIs & DAX logic                    | [GitHub](https://github.com/mdsabiha/RetailSalesIntelligence)                                |
+| CO₂ Emissions Visualization          | Tableau dashboards visualizing vehicle emission patterns                       | [GitHub](https://github.com/mdsabiha/EmissionsVisualization)                                 |
+| Goldman Sachs Financial Analysis     | Presentation: Monte Carlo, Prophet forecasting, CAPM & WACC models             | [GitHub](https://github.com/mdsabiha/goldman-sachs-financial-analysis)                       |
 
 ---
 
-## Certifications
+## 💼 Work Experience
+
+### **Python QA Automation & Data Analyst**  
+*Microspark Software Solutions, Hyderabad*  
+**Aug 2020 – Mar 2023**  
+- Validated AI-generated banking API outputs using Python and statistical methods  
+- Built benchmarking frameworks with automated tests, reducing data quality issues by 32%  
+- Applied sentiment analysis for bias detection and red teaming in customer feedback  
+- Built ground-truth datasets for backend reconciliation in BFSI workflows  
+- Tools: Python, pytest, SQL, Power BI
+
+### **Software Quality Engineer – Banking Applications**  
+*Microspark Software Solutions, Hyderabad*  
+**Jul 2016 – Aug 2020**  
+- Automated regression testing for financial APIs using Selenium and Python  
+- Domain knowledge in loans, mortgage, credit insurance, and flood insurance  
+- Used JIRA & Blueprint to track CRs and QA workflows  
+- Identified fairness gaps in customer onboarding using SQL metrics  
+- Helped deliver AI prompt optimization for conversational AI interfaces
+
+---
+
+## 🎓 Education
+
+**Postgraduate Diploma in Data Analytics for Business**  
+St. Clair College, Windsor, ON, Canada  
+*Sept 2023 – April 2025*
+
+**Bachelor of Technology in Information Technology**  
+Andhra Loyola Institute of Engineering and Technology, India  
+*Sept 2010 – May 2014*
+
+---
+
+## 📜 Certifications
 
 - Power BI for Data Analysts  
 - Selenium WebDriver with Java  
 - Data Analytics with Excel & SQL  
-- Agile Foundations & Scrum Basics  
+- Agile Foundations, Scrum Basics  
 - Python Statistical Thinking
 
 ---
 
-> *“Driving ethical, scalable, insight-driven solutions in AI & data analytics.”*
+## 🧰 Technical Skills
+
+| Category            | Tools & Technologies                                                                 |
+|---------------------|----------------------------------------------------------------------------------------|
+| **Languages**       | Python, SQL, Java (basic)                                                             |
+| **Automation**      | Selenium, Pytest, BDD (Cucumber), Great Expectations                                  |
+| **AI/ML**           | Random Forest, Fairlearn, Prompt Optimization, NLP, OpenAI Eval                       |
+| **Visualization**   | Power BI, Tableau, Alteryx                                                             |
+| **Data Analytics**  | EDA, Feature Engineering, Sentiment Analysis, Data Pipelines                          |
+| **DevOps Tools**    | Git, Jenkins, JIRA, CI/CD                                                              |
+| **Methodologies**   | Agile, Scrum, CR Tracking                                                              |
+| **Domains**         | BFSI (Loans, Insurance, Credit Risk, KYC/AML), Healthcare Analytics                    |
+
+---
+
+## 🌟 Additional Highlights
+
+- Functional expertise in AML/KYC, Loans, Credit, and Consumer Insurance  
+- Experienced in Agile teams with a strong QA and DevOps mindset  
+- Eligible to work full-time in Canada  
+- Languages: **English (C1 – IELTS Certified)** | **French (B2 – CEFR Certified)**  
+
+---
+
+> “Let’s build ethical, impactful, and intelligent systems that solve meaningful problems.”
