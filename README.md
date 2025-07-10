@@ -1,10 +1,9 @@
 # SABIHA BEGUM MOHAMMED
 
 **P.G. DATA ANALYTICS | B.Tech. (IT) | QA & Data Analyst**  
-📍 North York, Ontario, Canada  
 📞 +1-613-302-977  
 📧 sabihabegum1509@gmail.com  
-🔗 [GitHub: mdsabiha](https://github.com/mdsabiha)
+
 
 ---
 
