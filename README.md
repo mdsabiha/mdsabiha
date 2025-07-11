@@ -2,7 +2,7 @@
 
 **P.G. DATA ANALYTICS | B.Tech. (IT) | QA & Data Analyst**  
 📞 +1-613-302-977  
-📧 sabihabegum1509@gmail.com  
+📧 sabihamohammed1509@gmail.com  
 
 
 ---
