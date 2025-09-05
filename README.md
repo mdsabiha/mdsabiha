@@ -31,10 +31,10 @@ End-to-end **opinion mining pipeline** using Azure cloud:
 
 ---
 
-### 🔹 [Unraveling the Link Between Diet and Health](https://github.com/mdsabiha/diet-health-analysis)  
+### 🔹 [Unraveling the Link Between Diet and Health](https://github.com/mdsabiha/Unraveling-the-Link-Between-Diet-and-Health)
 Exploratory Data Analysis on **NHANES healthcare data** using Python. Identified relationships between dietary patterns and chronic health risks (heart disease, hypertension, diabetes, inflammation). Delivered insights via **Tableau dashboards**.  
 
-### 🔹 [Hypertension Risk Prediction & Web App](https://github.com/mdsabiha/hypertension-risk-flask-app)  
+### 🔹 [Hypertension Risk Prediction & Web App]([https://github.com/mdsabiha/hypertension-risk-flask-app])  
 Developed a **Random Forest classification model** to forecast hypertension risk using lifestyle and demographic data. Deployed as a **Flask web application** for proactive healthcare decision-making.  
 
 ### 🔹 [Customer Sentiment Analysis – Indian Airlines](https://github.com/mdsabiha/indian-airlines-sentiment)  
