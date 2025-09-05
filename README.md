@@ -1,107 +1,98 @@
-# SABIHA BEGUM MOHAMMED
+# 👋 Hi, I'm Sabiha Begum Mohammed  
 
-**P.G. DATA ANALYTICS | B.Tech. (IT) | QA & Data Analyst**  
-📞 +1-613-302-977  
-📧 sabihamohammed1509@gmail.com  
-
-
----
-
-AI-focused Quality Engineer with 6+ years in software testing, QA automation, and data validation. Expertise in AI response validation, performance evaluation, and ethical AI principles using Python, ML, Selenium, and adversarial testing techniques. Proven ability in benchmarking AI models, bias mitigation, and developing validation frameworks. Skilled in red teaming concepts, prompt optimization, and leveraging tools like PyTorch, Fairlearn, and Great Expectations. Committed to ensuring AI robustness in financial domains and passionate about driving strategic business insights using analytics and technology.
+**P.G. Data Analytics | B.Tech. (IT) | QA & Data Analyst**  
+📞 +1-613-302-977 | 📧 [Email Me](mailto:sabihamohammed1509@gmail.com)  
+🌐 [GitHub Portfolio](https://github.com/mdsabiha)  
 
 ---
 
-## 🎓 EDUCATION & PROJECT HIGHLIGHTS
-
-Completed a Postgraduate Diploma in Data Analytics for Business from St. Clair College, Windsor ON, integrating technical knowledge with business acumen. Applied classroom concepts into industry-relevant projects, gaining hands-on experience in Python, machine learning, and visualization tools:
-
-- **Unraveling the Link Between Diet and Health**  
-  Conducted advanced exploratory data analysis (EDA) in the healthcare domain using Python on NHANES datasets to uncover relationships between dietary patterns and four major health risks: heart disease, hypertension, inflammation, and diabetes. Delivered key insights through Tableau dashboards to inform preventive strategies.
-
-- **Hypertension Risk Prediction & Web App**  
-  Built a Random Forest classification model to forecast hypertension risk using lifestyle and demographic variables. Applied correlation and statistical analysis to identify key indicators. Deployed the solution as a user-friendly web application using Flask, enabling proactive care decisions in healthcare environments.
-
-- **Customer Sentiment Analysis – Indian Airlines**  
-  Leveraged Python NLP tools (TextBlob, NLTK) to extract sentiment polarity and determine factors affecting customer satisfaction. Derived actionable insights for customer experience strategies.
-
-- **Retail Sales Intelligence Dashboard**  
-  Designed an executive Power BI dashboard to track KPIs and sales trends using slicers, DAX functions, and visual storytelling. Enabled efficient decision-making in the retail domain.
-
-- **CO2 Emissions Visualization in Tableau**  
-  Built interactive Tableau dashboards to assess CO2 emission patterns across vehicle types and regions, supporting environmental analytics and sustainability awareness.
-
-- **Financial Evaluation of Goldman Sachs**  
-  Conducted a comprehensive financial analytics project evaluating Goldman Sachs’ performance. Analyzed key metrics including revenue growth, return on equity, and stock status. Utilized Python and Excel for data extraction and analysis.
+## 🚀 About Me
+Data-driven **Quality Engineer & Analyst** with 6+ years of experience in **data analytics, business intelligence, and AI validation**. Skilled in **data wrangling, visualization, predictive modeling, and cloud-based data pipelines**.  
+Hands-on expertise with **Python, SQL, Power BI, Tableau, and Azure**. Passionate about **turning raw data into actionable insights, ensuring responsible AI, and driving strategic business value through analytics**.  
 
 ---
 
-## 🧰 TECHNICAL SKILLS
-
-- **Strategy & Analytics**: Exploratory Data Analysis (EDA), Business Problem Solving, Insight Development, Operating Model Architecture  
-- **AI Validation**: Response Accuracy, Coherence & Relevance Testing, Adversarial Testing, Bias Detection  
-- **AI Tools**: PyTorch, Fairlearn, Great Expectations, OpenAI Eval, Prompt Optimization  
-- **Testing Frameworks**: Automation Testing, pytest, Selenium, BDD (Cucumber)  
-- **Data & ML**: Python, SQL, Random Forest, Sentiment Analysis, Power BI, Tableau  
-- **Responsible AI**: Bias Mitigation, Fairness Assessment (Aequitas concepts)  
-- **DevOps**: Jenkins, JIRA, GIT, CI/CD  
-- **Tools**: Tableau, Power BI, Alteryx, JIRA, ALM, Blueprint  
-- **Domains**: BFSI (Banking/Financial Services), Insurance
+## 🎓 Education
+- **P.G. Diploma in Data Analytics for Business** – St. Clair College, Windsor, ON _(2023–2025)_  
+- **B.Tech. in Information Technology** – JNTU Kakinada, India _(2010–2014)_  
 
 ---
 
-## 💼 PROFESSIONAL EXPERIENCE
+## 💡 Featured Projects
 
-### **Python QA Automation & Data Analyst**  
-**Microspark Software Solutions, Hyderabad, India**  
-*Aug 2020 – Mar 2023*
-
-- Validated AI-generated outputs for transactional banking APIs using Python, ensuring accuracy and coherence through statistical checks (pandas) and anomaly detection.  
-- Developed benchmarking strategies for data quality, reducing errors by 32% via automated validation frameworks resembling Great Expectations.  
-- Applied sentiment analysis (seaborn) to customer feedback datasets, identifying biases and optimizing response relevance—directly transferable to AI red teaming.  
-- Created ground truth validation datasets for financial data reconciliation, ensuring factual integrity of backend systems.  
-- **Tools**: Python, pytest, SQL, PowerBI.
-
----
-
-### **Software Quality Engineer – Banking Applications**  
-**Microspark Software Solutions, Hyderabad, India**  
-*Jul 2016 – Aug 2020*
-
-- Executed adversarial testing of banking APIs using Python scripts and QA automation tools including Selenium to identify security gaps and robustness flaws.  
-- Well-versed in wholesale credit banking space in originating end to end products both secured and unsecured  
-- Well-versed in insurance domains like Lenders, Mortgage, flood insurance and consumer credit insurance.  
-- Used JIRA and Blue-print to track requirements and activities  
-- Helped Business and new joiners by driving the requirements with smooth deliverables  
-- Implemented automated validation frameworks for regression testing, covering 200+ edge cases to ensure model responsiveness and reliability.  
-- Performed bias detection in customer onboarding workflows, auditing data for fairness using SQL-driven metrics.  
-- Collaborated on prompt optimization for chatbot interfaces, refining inputs to improve output consistency.
+### 🔹 [Airline Sentiment Analysis – Azure Data Factory](https://github.com/mdsabiha/airline-sentiment-analysis)  
+End-to-end **opinion mining pipeline** using Azure cloud:  
+- Orchestrated with **Azure Data Factory (ADF)**.  
+- Leveraged **Azure Cognitive Services (Text Analytics)** for aspect-based sentiment.  
+- Stored results in **Azure SQL Database** with custom stored procedure `UpdateReviewAspects`.  
+- Enhanced reviews dataset with **positive/negative aspects and mixed review flag**.  
+- Designed for scalability (2,200+ airline reviews processed).  
+- Future-ready: **Power BI dashboards, real-time pipelines, ML integration**.  
 
 ---
 
-## 🎓 EDUCATION
+### 🔹 [Unraveling the Link Between Diet and Health](https://github.com/mdsabiha/diet-health-analysis)  
+Exploratory Data Analysis on **NHANES healthcare data** using Python. Identified relationships between dietary patterns and chronic health risks (heart disease, hypertension, diabetes, inflammation). Delivered insights via **Tableau dashboards**.  
 
-- **P. G. Diploma in Data Analytics for Business**  
-  *St. Clair College, Windsor, ON, Canada*  
-  *Sept 2023 – April 2025*
+### 🔹 [Hypertension Risk Prediction & Web App](https://github.com/mdsabiha/hypertension-risk-flask-app)  
+Developed a **Random Forest classification model** to forecast hypertension risk using lifestyle and demographic data. Deployed as a **Flask web application** for proactive healthcare decision-making.  
 
-- **Bachelor of Technology in Information Technology**  
-  *Andhra Loyola Institute of Engineering and Technology, India*  
-  *Sept 2010 – May 2014*
+### 🔹 [Customer Sentiment Analysis – Indian Airlines](https://github.com/mdsabiha/indian-airlines-sentiment)  
+Built an **NLP pipeline** (TextBlob, NLTK) for extracting customer sentiment polarity. Highlighted factors influencing customer satisfaction and improved **airline service strategies**.  
+
+### 🔹 [Retail Sales Intelligence Dashboard](https://github.com/mdsabiha/retail-sales-dashboard)  
+Created a **Power BI executive dashboard** using DAX and slicers to track KPIs and visualize retail sales trends. Enhanced decision-making through **interactive storytelling**.  
+
+### 🔹 [CO2 Emissions Visualization in Tableau](https://github.com/mdsabiha/co2-emissions-dashboard)  
+Designed interactive dashboards to analyze **CO2 emission patterns** across vehicle types and regions, aiding **environmental sustainability strategies**.  
+
+### 🔹 [Financial Evaluation of Goldman Sachs](https://github.com/mdsabiha/goldman-sachs-financial-analysis)  
+Performed **financial analytics** on Goldman Sachs’ performance using Python & Excel. Evaluated **revenue growth, return on equity, and stock health** with industry benchmarks.  
 
 ---
 
-## 📜 CERTIFICATIONS
+## 🧰 Technical Skills
+- **Data & Analytics**: Python, SQL, Power BI, Tableau, Alteryx  
+- **AI & ML**: Random Forest, Sentiment Analysis, PyTorch, Fairlearn, Great Expectations  
+- **Cloud & Pipelines**: Azure Data Factory, Azure SQL Database, REST API integration  
+- **Responsible AI**: Bias detection, fairness assessment, adversarial testing, red teaming  
+- **Domains**: BFSI (Banking/Financial Services), Insurance, **Capital Markets, Risk & Portfolio Analytics**  
 
+---
+
+## 💼 Professional Experience
+
+### 🔹 Python QA Automation & Data Analyst – *Microspark Software Solutions*  
+📍 Hyderabad, India | *Aug 2020 – Mar 2023*  
+- Validated outputs for **transactional banking APIs** using Python & SQL.  
+- Reduced data errors by **32%** through automated benchmarking and validation frameworks.  
+- Applied **sentiment analysis** to customer datasets, identifying **biases and anomalies**.  
+- Built **ground-truth validation datasets** for financial reconciliation and analytics dashboards.  
+
+### 🔹 Software Quality Engineer – *Microspark Software Solutions*  
+📍 Hyderabad, India | *Jul 2016 – Aug 2020*  
+- Tested and validated **banking and insurance applications** with focus on **data accuracy and reliability**.  
+- Implemented automated validation frameworks covering **200+ edge cases**.  
+- Conducted **bias detection and fairness audits** in customer onboarding workflows using SQL-driven metrics.  
+- Collaborated with business teams to translate requirements into **analytics-ready solutions**.  
+
+---
+
+## 📜 Certifications
 - Power BI for Data Analysts  
-- Selenium WebDriver with Java  
 - Data Analytics with Excel & SQL  
-- Agile Foundations, Scrum Basics, Python Statistical Thinking
+- Agile Foundations, Scrum Basics, Python Statistical Thinking  
+- **PL-900: Microsoft Power Platform Fundamentals**  
+- Tableau Certified Data Analyst (Prep)  
 
 ---
 
-## ➕ ADDITIONAL ASSETS
+## ➕ Additional Assets
+- Functional knowledge of **BFSI, Insurance, and Capital Markets** domains (Loans, Credit, AML/KYC, Risk & Portfolio Analytics).  
+- Experience in **Agile QA teams & change rollouts**.  
+- Eligible to work full-time in Canada.  
+- Languages: English (C1 – IELTS Certified), French (B2 – CEFR Certified).  
 
-- Functional knowledge of BFSI products (Loans, Insurance, Credit, AML/KYC)  
-- Experience in Agile-based QA teams and CR rollouts  
-- Eligible to work full-time in Canada  
-- Languages: **English (C1 – IELTS Certified)**, **French (B2 – CEFR Certified)**
+---
+
+📌 **Explore all repositories here:** [GitHub Portfolio →](https://github.com/mdsabiha)
