@@ -43,7 +43,7 @@ Built an **NLP pipeline** (TextBlob, NLTK) for extracting customer sentiment pol
 ###  [Retail Sales Intelligence Dashboard](https://github.com/mdsabiha/retail-sales-dashboard)  
 Created a **Power BI executive dashboard** using DAX and slicers to track KPIs and visualize retail sales trends. Enhanced decision-making through **interactive storytelling**.  
 
-###  [CO2 Emissions Visualization in Tableau](https://github.com/mdsabiha/co2-emissions-dashboard)  
+###  [CO2 Emissions Visualization in Tableau]https://github.com/mdsabiha/vehicle-performance-dashboard  
 Designed interactive dashboards to analyze **CO2 emission patterns** across vehicle types and regions, aiding **environmental sustainability strategies**.  
 
 ###  [Financial Evaluation of Goldman Sachs](https://github.com/mdsabiha/goldman-sachs-financial-analysis)  
